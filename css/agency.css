@@ -226,9 +226,8 @@ fieldset[disabled] .btn-xl.active {
     font-size: 3em;
   }
 }
-/*
+
 header {
-  background-image: url('../img/fyockhomedesign_coverphoto.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -239,7 +238,7 @@ header {
   text-align: center;
   color: white;
 }
-*/
+
 /* Home Page Carousel */
 
 header.carousel {
